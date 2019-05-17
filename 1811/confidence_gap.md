@@ -35,6 +35,9 @@
   How does this connect to mission of Gear Up? I think it's important to have the information with you, no matter what "side" you are in. You can benefit from this information in order to try and change things.
 
   How will this impact you as a developer? I feel extremely close to all the information and I think seeing the data and acknowledging that it is a thing that doesn't only apply or affects me, but many other people, is comforting.
+  
+    Feedback from partner:
+  Add a small comment about non-binary people talking about how there's not enough data to address it yet, but that it would be really interesting to see what the facts say about them too. The purpose of this would be to make the talk more inclusive.
 
   Write 2-3 discussion questions you might want people to discuss after your presentation:
     1.What is the confidence gap?
